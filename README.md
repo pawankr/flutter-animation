@@ -1,6 +1,6 @@
 # animation
 
-A new Flutter project.
+Flutter project for learning about animation widget.
 
 ## Getting Started
 
